@@ -44,6 +44,7 @@ stm32h7xx-hal = { version = "0.14", features = [ "stm32h750v", "rt", "revision_v
 [features]
 seed = []
 seed_1_1 = [ "num_enum" ]
+seed_1_2 = []
 patch_sm = [ "num_enum" ]
 sampling_rate_96khz = []
 

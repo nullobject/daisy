@@ -7,6 +7,7 @@ backwards compatibility.
 ## Unreleased
 
 * Allow audio sampling rate of 96 kHz.
+* Introduce support for Daisy Seed 1.2.
 
 ## 0.8.0
 

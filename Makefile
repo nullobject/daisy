@@ -14,6 +14,7 @@ clippy:
 	cargo clippy --all --examples --features seed -- -D warnings
 	cargo clippy --all --examples --features seed_1_1 -- -D warnings
 	cargo clippy --all --examples --features seed_1_1,sampling_rate_96khz -- -D warnings
+	cargo clippy --all --examples --features seed_1_2 -- -D warnings
 	cargo clippy --all --examples --features patch_sm -- -D warnings
 	cargo clippy --all --examples --features seed -- -D warnings
 
